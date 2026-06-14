@@ -1,27 +1,263 @@
+<!-- 🕷️ SPIDER-MAN × CYBERPUNK × HACKER VIBE 🦇 -->
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFCC?style=for-the-badge&logo=verizon&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/MODE-SPECTRE-FF0066?style=for-the-badge&logo=codefactor&logoColor=FF0066" />
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00FFCC?style=for-the-badge&logo=matrix&logoColor=00FFCC" />
+</p>
 
-<!-- 🕷️ GOTHAM x SPIDERMAN THEME --><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&lines= Welcome+to+My+Vedverse ...;Turning+Ved+Into+Code...;Neutralizing+Humanity...; Future+Backend+%2B+AI+Engineer" /><br></p><br><br><h1 align="center">🕷️Raghav Mohan Gupta🦇</h1><br><br><p align="center"><br>  <i>"Not a hero. Not a villain. Just someone building in the shadows."</i><br></p><br><br>---<br><br>## 🧠 About Me<br><br>🎓 BTech CSE (2nd Year) @ ABESIT, Ghaziabad<br>💻 Backend Developer | AI Explorer | Problem Solver<br>🧩 Hackathon Builder | Real-world project enthusiast<br>🎸 Guitarist | 🎤 Singer | 🚶 Solo Thinker<br><br>⚡ I don’t talk much… but my code does.<br><br>---<br><br>## ⚡ Current Focus<br><br>* 🧠 DSA + LeetCode Grind<br>* ⚙️ Backend Engineering (APIs, Databases, System Design)<br>* 🤖 AI & Generative AI Integration<br>* 🚀 Building scalable real-world projects<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 💻 Languages<br><br>![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)<br>![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk)<br>![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c)<br>![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)<br><br>---<br><br>### 🌐 Backend & Frameworks<br><br>![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js)<br>![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge\&logo=django)<br>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)<br><br>---<br><br>### 🗄️ Databases<br><br>![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb)<br>![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=mysql)<br><br>---<br><br>### ☁️ Cloud & DevOps<br><br>![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge\&logo=amazonaws)<br>![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)<br>![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)<br><br>---<br><br>### 📱 App Development<br><br>![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge\&logo=flutter)<br><br>---<br><br>### 🧰 Tools & Platforms<br><br>`VS Code` `Postman` `Figma` `Linux` `Firebase` `Netlify` `Render`<br><br>---<br><br>## 🚀 Projects<br><br>🔹 ☕ **Coffee Machine Simulator**<br>Simulates real-world coffee operations with logic-based workflows<br><br>🔹 🃏 **Blackjack Game**<br>Casino-style Python game with complete game logic<br><br>🔹 📊 **Higher Lower Game**<br>Dynamic comparison-based number game<br><br>🔹 🏗️ **AI Construction Monitoring System**<br>Detects inefficiencies, predicts delays & improves workflow using AI<br><br>🔹 🏃 **Sports Talent AI Platform (SIH Idea)**<br>Tracks athlete performance & connects them with higher authorities<br><br>🔹 📝 **Anonymous Feedback System**<br>Secure system for honest feedback in college ecosystem<br><br>🔹 🤖 **Smart Tamper Detection System (SIH 2025)**<br>IoT + AI based system for detecting tampering in measuring instruments<br><br>---<br><br>## 💼 Experience / Exposure<br><br>* 🧠 Hackathon Participant (KIET AI Arena) – Team Lead ("Among Us")<br>* ⚙️ Worked on real-world problem solving projects under pressure<br>* 🚀 Exploring internship-level development & production-ready systems<br><br>---<br><br>## 🏆 Achievements<br><br>* 🥇 1st Position – Drawing Competition<br>* 🎤 Singing Competition Winner<br>* 🗣️ English Elocution Awards<br>* 📊 PPT Presentation Certificates<br>* 🏫 Active participation in college tech & cultural events<br>* 🚀 Hackathon Shortlisting & Project Selection<br><br>---<br><br>## 🧠 Mindset<br><br>> "Discipline builds what motivation cannot."<br><br>> "Pain is temporary. Growth is permanent."<br><br>---<br><br>## 📈 GitHub Analytics<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Detective-ved&show_icons=true&theme=tokyonight&hide_border=true"/><br></p><br><br><p align="center"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Detective-ved&theme=tokyonight&hide_border=true"/><br></p><br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Detective-ved&layout=compact&theme=tokyonight&hide_border=true"/><br></p><br><br>---<br><br>## 👀 Profile Activity<br><br><p align="center"><br>  <img src="https://github-profile-trophy.vercel.app/?username=Detective-ved&theme=onestar&no-frame=true&row=1&column=6"/><br></p><br><br>---<br><br>## 🌐 Connect<br><br>📧 Email: [vasudevan.raghavam15@gmail.com](mailto:vasudevan.raghavam15@gmail.com)<br>📱 Phone: 7906771654<br><br>🔗 LinkedIn:<br>https://www.linkedin.com/in/raghava-m-vasudevan/<br><br>💻 GitHub:<br>https://github.com/Detective-ved<br><br>---<br><br>## 👁️ Visitors<br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=Detective-ved&color=blue&style=flat-square"/><br></p><br><br>---<br><br>## 🕷️ Final Line<br><br><p align="center"><br>  <i>"In the chaos of Gotham, I write my own story through code."</i> 🦇<br></p><br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=call+me+a+camel+so+the+lore+begins...;n+we're+automatically+friends;sudo+rm+-rf+problems;initiating+connection...;access+granted+to+the+Vedverse" />
+</p>
 
+```
+           ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄            ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄       ▄▄  ▄▄▄▄▄▄▄▄▄▄▄               
+          ▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░▌          ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌     ▐░░▌▐░░░░░░░░░░░▌              
+          ▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░▌          ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌   ▐░▐░▌▐░█▀▀▀▀▀▀▀▀▀               
+          ▐░▌       ▐░▌▐░▌          ▐░▌          ▐░▌          ▐░▌       ▐░▌▐░▌▐░▌ ▐░▌▐░▌▐░▌                        
+          ▐░▌   ▄   ▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░▌          ▐░▌          ▐░▌       ▐░▌▐░▌ ▐░▐░▌ ▐░▌▐░█▄▄▄▄▄▄▄▄▄               
+          ▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌▐░▌          ▐░▌          ▐░▌       ▐░▌▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌              
+          ▐░▌ ▐░▌░▌ ▐░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░▌          ▐░▌          ▐░▌       ▐░▌▐░▌   ▀   ▐░▌▐░█▀▀▀▀▀▀▀▀▀               
+          ▐░▌▐░▌ ▐░▌▐░▌▐░▌          ▐░▌          ▐░▌          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌                        
+          ▐░▌░▌   ▐░▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄               
+          ▐░░▌     ▐░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌              
+           ▀▀       ▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀               
+                     ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄       ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄                          
+                    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌                         
+                     ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌      ▀▀▀▀█░█▀▀▀▀ ▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀                          
+                         ▐░▌     ▐░▌       ▐░▌          ▐░▌     ▐░▌       ▐░▌▐░▌                                   
+                         ▐░▌     ▐░▌       ▐░▌          ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄                          
+                         ▐░▌     ▐░▌       ▐░▌          ▐░▌     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌                         
+                         ▐░▌     ▐░▌       ▐░▌          ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀                          
+                         ▐░▌     ▐░▌       ▐░▌          ▐░▌     ▐░▌       ▐░▌▐░▌                                   
+                         ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌          ▐░▌     ▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄                          
+                         ▐░▌     ▐░░░░░░░░░░░▌          ▐░▌     ▐░▌       ▐░▌▐░░░░░░░░░░░▌                         
+                          ▀       ▀▀▀▀▀▀▀▀▀▀▀            ▀       ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀                          
+ ▄               ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄  ▄               ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+▐░▌             ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌▐░▌             ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+ ▐░▌           ▐░▌ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌           ▐░▌ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ 
+  ▐░▌         ▐░▌  ▐░▌          ▐░▌       ▐░▌ ▐░▌         ▐░▌  ▐░▌          ▐░▌       ▐░▌▐░▌          ▐░▌          
+   ▐░▌       ▐░▌   ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌       ▐░▌  ▐░▌       ▐░▌   ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ 
+    ▐░▌     ▐░▌    ▐░░░░░░░░░░░▌▐░▌       ▐░▌   ▐░▌     ▐░▌    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+     ▐░▌   ▐░▌     ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌       ▐░▌    ▐░▌   ▐░▌     ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀█░█▀▀  ▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ 
+      ▐░▌ ▐░▌      ▐░▌          ▐░▌       ▐░▌     ▐░▌ ▐░▌      ▐░▌          ▐░▌     ▐░▌            ▐░▌▐░▌          
+       ▐░▐░▌       ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌      ▐░▐░▌       ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌      ▐░▌  ▄▄▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ 
+        ▐░▌        ▐░░░░░░░░░░░▌▐░░░░░░░░░░▌        ▐░▌        ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+         ▀          ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀          ▀          ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀                                                                            
+```
+---                                                               
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Share+Tech+Mono&size=30&duration=5000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hii+I'm+RAGHAV+👋;%3E+UID%3A+fuxkme.ved;%3E+SHELL%3A+%2Fbin%2Fhacker;%3E+%7B+Backend+%7C+AI+%7C+IoT+%7D;%24+sudo+./deploy_shadow_coder.sh;%3E+ACCESS+GRANTED...;WELCOME+TO+THE+VEDVERSE" />
+</p>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vasud_raghav) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/detective.ved) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedonthemic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghava-m-vasudevan/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vasudevanraghavam15) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Raghava-M-Vasudevan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasudevan.raghavam15@gmail.com) 
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-SOFTWARE_DEV_%2B_AI_ENGINEER-00FFCC?style=flat-square" />
+  <img src="https://img.shields.io/badge/OS-PARANOID_ANDROID-FF0066?style=flat-square" />
+  <img src="https://img.shields.io/badge/TERMINAL-ROOT_ACCESS-brightgreen?style=flat-square" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=detective-ved&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=detective-ved&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=detective-ved&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=detective-ved&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🧠 >> WHOAMI
 
-### ✍️ Random Dev Quote
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+    
+```yaml
+alias: Raghav Mohan Gupta
+status: BTech CSE'28 @ ABESIT, Ghaziabad
+expertise: 
+  - Backend Alchemist
+  - AI Explorer
+  - Hardware Hacker
+  - Database Whisperer
+side_quests:
+  - General Secretary (yes, I sign papers too)
+  - PR & Sponsorships @ Google Developer Group On Campus
+  - Freelance UI/UX Wizard
+core_philosophy: "I don't talk much... my code does the talking."
+```
+🔥 brainrot.exe loaded — iykyk...
+  </td> <td width="50%" valign="top">
+
+```bash
+
+            .-.-.                ved@void 
+           | '-' |               ---------
+            '-:-'      OS: Paranoid Android x Cyberpunk 2077
+         .-'-----'-.     Shell: zsh (glitched)
+       .'           '.     Terminal: kitty (hacked)
+      :  🧠  DSA      :     CPU: Leetcode Grind @ 5.5GHz
+     |   ⚙️  BACKEND   |     GPU: Distributed Chaos RTX 9090
+     |    🤖  AI       |     MEM: 32GB (31.9GB used by agent)
+      :   🚀 PROJECTS  :     Uptime: 72h (help)
+       '.           .'       Processes: 420 (69 zombies)
+         '-.....─'         Status: SEND COFFEE 💀
+
+```
+⚡$ neofetch --offensive
+</td> </tr> </table>
+
+<p align="center">
+  <i>✦ "Not a hero. Not a villain. Just a script running in the shadows." ✦</i>
+</p>
+
+## ⚡ >> CURRENT_SYS.CALLS
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      
+$ systemctl status ved-core.service
+```bash
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   PROCESS        STATUS              LOAD                      ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃   🧠 DSA          🟢 ACTIVE        ████████████████████ 100%  ┃
+┃   ⚙️ BACKEND      🟡 DEGRADED      ████████████████░░░░  80%  ┃
+┃   🤖 AI           🟢 ACTIVE        ████████████████████  99%  ┃
+┃   🚀 PROJECTS     🔴 STALLED       ████████████░░░░░░░░  60%  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+> STATUS: ALL SYSTEMS MONITORED
+> CORE_TEMP: 98°C
+> SUGGESTION: SEND COFFEE OR PULL_REQUEST
+```
+  </td> <td width="50%" valign="top">
+
+$ /var/log/ved/mind.log
+```bash
+status: "hyperfixation_active"
+threads_running: 4
+memory_leak: true
+sudo_privileges: granted
+```
+</td> </tr> </table>
+
+💀 WARNING: Core temperature high. Send coffee or pull request.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=2500&pause=100&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+STATUS+%5D;CONNECTION+ENCRYPTED;FIREWALL+ACTIVE;ROOT+PRIVILEGES+ENABLED" />
+</p>
+
+---
+
+## 🛠️ >> TECH_STACK.dump()
+
+💀 LANGUAGES I SPEAK (TO THE MACHINE)
+<p align="left"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+
+⚡ BACKEND (WHERE THE MAGIC HAPPENS)
+<p align="left"> <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/FIREBASE_CF-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/REST_API-FF0066?style=for-the-badge&logo=fastapi&logoColor=white" /> </p>
+
+🎨 FRONTEND (AESTHETIC > EVERYTHING)
+<p align="left"> <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </p>
+
+🗄️ DATABASES (WHERE DATA SLEEPS)
+<p align="left"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/FIRESTORE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> </p>
+
+☁️ CLOUD & DEVOPS (I BREAK THINGS, THEN FIX THEM)
+<p align="left"> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
+
+🤖 AI/ML (I TRAIN MODELS, THEY TRAIN ME)
+<p align="left"> <img src="https://img.shields.io/badge/GENERATIVE_AI-00FFCC?style=for-the-badge&logo=openai&logoColor=black" /> <img src="https://img.shields.io/badge/PROMPT_ENGINEERING-FF0066?style=for-the-badge&logo=prompt&logoColor=white" /> <img src="https://img.shields.io/badge/DATA_ANALYTICS-4EA94B?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/MACHINE_LEARNING-FF6C37?style=for-the-badge&logo=tensorflow&logoColor=white" /> </p>
+
+🎨 UI/UX & DESIGN (PIXEL PERFECTIONIST)
+<p align="left"> <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/PROTOTYPING-FF0066?style=for-the-badge&logo=adobe&logoColor=white" /> </p>
+
+🔌 HARDWARE & IOT (TALKING TO METAL)
+<p align="left"> <img src="https://img.shields.io/badge/ARDUINO-00878F?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/EMBEDDED_C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/SENSOR_INTEGRATION-00FFCC?style=for-the-badge&logo=iot&logoColor=black" /> </p>
+
+---
+
+## 🏆 >> CERTIFICATIONS & ACHIEVEMENTS
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      
+```bash
+┌────────────────────────────────────┐
+│ $ cat achievements.log             │
+├────────────────────────────────────┤
+│ ✓ Complete Python Bootcamp         │
+│ ✓ App Development with Flutter     │
+│ ✓ Data Structures (ABESIT)         │
+│ ✓ ES6 JavaScript (CodeChef)        │
+│ ✓ Full Stack Web Development       │
+│ ✓ Java Programming Fundamentals    │
+│ ✓ Infosys Springboard Programs     │
+└────────────────────────────────────┘
+```
+  </td> <td width="50%" valign="top">
+
+```bash  
+┌────────────────────────────────────┐
+│ $ cat trophies.log                 │
+├────────────────────────────────────┤
+│ ✓ 🥇 Drawing Competition Winner   │
+│ ✓ 🎤 Singing Competition Winner   │
+│ ✓ 🗣️ English Elocution Awards     │
+│ ✓ 📊 PPT Presentation Certified   │
+│ ✓ 🚀 Hackathon Shortlisting       │
+│   (KIET AI Arena, SIH 2025)        │
+└────────────────────────────────────┘
+```
+</td> </tr> </table>
+
+---
+
+## 📈 >> GITHUB_ANALYTICS()
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=200&color=00FF41&center=true&vCenter=true&width=500&lines=%24+github-stats+--user%3DDetective-ved+--live;LOADING+CONTRIBUTION+MATRIX...;FETCHING+COMMIT+HISTORY...;RENDERING+GRAPH..." />
+</p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Detective-ved&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=FF0066" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Detective-ved&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FFCC&ring=FF0066&fire=00FFCC&currStreakNum=FFFFFF" width="48%" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Detective-ved&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFCC" width="48%" /> <img src="https://github-profile-trophy.vercel.app/?username=Detective-ved&theme=darkhub&no-frame=true&row=1&column=4&margin-w=10" width="48%" /> </p><p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=detective-ved&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=00FFCC&icon_color=FF0066" width="80%" /> </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=1500&pause=100&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+STATUS+%5D;ACTIVE+CONTRIBUTIONS:+1,979;STREAK:+42+DAYS;RANK:+TOP+8.7%25;ALL+SYSTEMS+GREENLIT" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Detective-ved&color=00FF41&style=for-the-badge&label=INTRUDERS+TRACKED" />
+</p>
+
+---
+
+## 🐍 >> CONTRIBUTION_SNAKE.EXE
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Detective-ved/Detective-ved/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Detective-ved/Detective-ved/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Detective-ved/Detective-ved/output/github-contribution-grid-snake-dark.svg" /> </picture>
+
+$> echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+$> echo "TOTAL CONTRIBUTIONS: 1,979  |  STREAK: 42 DAYS  |  RANK: TOP 8.7%"
+$> echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=1500&pause=100&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+STATUS+%5D;ACTIVE+CONTRIBUTIONS:+1,979;STREAK:+42+DAYS;RANK:+TOP+8.7%25;ALL+SYSTEMS+GREENLIT;SNAKE+IS+FEEDING+ON+YOUR+COMMITS" /> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=Detective-ved&color=00FF41&style=for-the-badge&label=INTRUDERS+TRACKED" /> </p>
+
+---
+
+## 🌐 >> CONNECT() [ IF YOU DARE! ]
+
+<p align="center"> <a href="mailto:raghav.mgu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-raghav.mgu%40gmail.com-FF0066?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="tel:+917906771654"><img src="https://img.shields.io/badge/ENCRYPTED_LINE-%2B91%2079067%2071654-00FFCC?style=for-the-badge&logo=signal&logoColor=white" /></a> </p><p align="center"> <a href="https://linkedin.com/in/raghava-m-vasudevan/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Detective-ved"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://discord.gg/detective.ved"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://instagram.com/vedonthemic"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
+
+---
+
+## 👁️ >> VISITOR_COUNT()
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Detective-ved&color=FF0066&style=flat-square&label=INTRUDERS+TRACKED" /> <img src="https://visitcount.itsvg.in/api?id=detective-ved&icon=5&color=12" /> </p>
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 💀 >> BRAINROT_MANTRA()
+
+<p align="center" theme="radical"> <i>✦ "Ved said hii. The lore starts when u say it back 😡... ✦</i><br/> <i>✦ call me a camel n we're automatically friends" ✦</i><br/><br/> <i>✦ "sudo rm -rf /problems && systemctl start success" ✦</i><br/> <i>✦ "I entered the matrix... it crashed" ✦</i><br/> <i>✦ "Discipline builds what motivation cannot. Pain is temporary. Logs are forever." ✦</i> </p>
+
+## 🕷️ >> SYSTEM_SHUTDOWN()
+
+<p align="center"> <i>✦ "In the neon chaos of the grid, I write my own story through code." ✦</i> 🦇 </p><p align="center"> <a href="#top"> <img src="https://img.shields.io/badge/BACK_TO_TOP-00FFCC?style=for-the-badge&logo=arrow-up&logoColor=black" /> </a> </p>
+<div align="center"> <b>✦ BUILT WITH ☕, 🕷️, AND TOO MANY ALL-NIGHTERS ✦</b><br/> <b>✦ RAGHAV MOHAN GUPTA — THE SHADOW CODER ✦</b> </div><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=2000&pause=500&color=FF0066&center=true&vCenter=true&width=500&lines=disconnected.;session.ended.;come+back+soon.;the+lore+continues..." /> </p> ```
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=detective-ved&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=detective-ved&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
