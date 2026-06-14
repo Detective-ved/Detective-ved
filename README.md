@@ -227,13 +227,13 @@ sudo_privileges: granted
 
 ## 🐍 >> CONTRIBUTION_SNAKE.EXE
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Detective-ved/Detective-ved/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Detective-ved/Detective-ved/output/github-contribution-grid-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Detective-ved/Detective-ved/output/github-contribution-grid-snake-dark.svg" /> </picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Detective-ved/Detective-ved/main/profile-3d-contrib/profile-night-green.svg" width="80%" />
+</p>
 
-$> echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-$> echo "TOTAL CONTRIBUTIONS: 1,979  |  STREAK: 42 DAYS  |  RANK: TOP 8.7%"
-$> echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=1500&pause=100&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+STATUS+%5D;ACTIVE+CONTRIBUTIONS:+1,979;STREAK:+42+DAYS;RANK:+TOP+8.7%25;ALL+SYSTEMS+GREENLIT;SNAKE+IS+FEEDING+ON+YOUR+COMMITS" /> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=Detective-ved&color=00FF41&style=for-the-badge&label=INTRUDERS+TRACKED" /> </p>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=detective-ved&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=39FF14&icon_color=00FF41&text_color=00FF41&border_radius=10" width="80%" />
+</p>
 
 ---
 
