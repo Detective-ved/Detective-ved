@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=call+me+a+camel+so+the+lore+begins...;n+we're+automatically+friends;sudo+rm+-rf+problems;initiating+connection...;access+granted+to+the+Vedverse" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=5000&pause=1500&color=00FFCC&center=true&vCenter=true&width=600&lines=call+me+a+camel+so+the+lore+begins...;n+we're+automatically+friends;sudo+rm+-rf+problems;initiating+connection...;access+granted+to+the+Vedverse" />
 </p>
 
 ```
@@ -47,7 +47,7 @@
 ```
 ---                                                               
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Share+Tech+Mono&size=30&duration=5000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hii+I'm+RAGHAV+👋;%3E+UID%3A+fuxkme.ved;%3E+SHELL%3A+%2Fbin%2Fhacker;%3E+%7B+Backend+%7C+AI+%7C+IoT+%7D;%24+sudo+./deploy_shadow_coder.sh;%3E+ACCESS+GRANTED...;WELCOME+TO+THE+VEDVERSE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Share+Tech+Mono&size=30&duration=7000&pause=2500&color=39FF14&center=true&vCenter=true&width=900&lines=Hii+I'm+RAGHAV+👋;%3E+UID%3A+fuxkme.ved;%3E+SHELL%3A+%2Fbin%2Fhacker;%3E+%7B+Backend+%7C+AI+%7C+IoT+%7D;%24+sudo+./deploy_shadow_coder.sh;%3E+ACCESS+GRANTED...;WELCOME+TO+THE+VEDVERSE" />
 </p>
 
 <p align="center">
