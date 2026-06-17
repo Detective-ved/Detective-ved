@@ -161,7 +161,7 @@ sudo_privileges: granted
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=3000&pause=200&color=00FF41&center=true&vCenter=true&width=600&height=25&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
 </p>
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1NDFlMzllMGNjNWU0MTg2MzIyYzc0OWZjMWIwNDEwNjQ5MmZhNTk2ZGY5ZWI4MDU2Nzk3YThlMmM1MWQ3NmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.rokv0zfFYJyytn5s36gvqD1A5kDLPeFOTeY38YcHZi4" width="4.5%" /> TECH_STACK.dump()
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="5%" /> TECH_STACK.dump()
 
 💀 LANGUAGES I SPEAK (TO THE MACHINE)
 <p align="left"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
@@ -211,7 +211,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzUtMzQzNzZiMGUtNGFlMi00Mjc4LTlkM2QtODJlODAxNmE4N2Q2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5ZTUxZDE4YmE4NTdjNmQzOWY0ZmExM2RjM2M2ZGI1MmNjM2E3ZWFjMDg5ZTYzNGFmMWE0NmU3MjBjZDNlZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.dXwrE8xM30mWxe_0XusAdylEXkKBBR8j-MnPxilZXf4" width="5%" /> CONTRIBUTION_Ved.EXE
+## <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="5%" /> CONTRIBUTION_Ved.EXE
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Detective-ved&theme=chartreuse-dark&bg_color=0D1117&color=00FF41&line=39FF14&point=00FF41&area=true&hide_border=true" width="90%" />
@@ -220,7 +220,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExNWZhMjc3ZDlhYTIxYTczM2EwOGVkOGJmMzgyYjI1OWZhNzE4ZTc0MjE5OTA1ZTM0NDliOTkzYzk3YmNmM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.9eItpZ9nC6vig4rAfGFXg1HqF91_Rj6zHyYrX3YQ1WA" width="4%" /> CONNECT < IF YOU DARE! >
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVlejhtNDl3N3B6anBtNjM0MWh0eDY2d21oejh2dTNoYXl3dm5xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dYx3YFq2OiVLIssQH9/giphy.gif" width="5%" /> CONNECT < IF YOU DARE! >
 
 <p align="center"> <a href="mailto:raghav.mgu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-raghav.mgu%40gmail.com-FF0066?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="tel:+917906771654"><img src="https://img.shields.io/badge/ENCRYPTED_LINE-%2B91%2079067%2071654-00FFCC?style=for-the-badge&logo=signal&logoColor=white" /></a> </p><p align="center"> <a href="https://linkedin.com/in/raghava-m-vasudevan/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Detective-ved"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://discord.gg/detective.ved"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://instagram.com/vedonthemic"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
 <p align="center">
@@ -230,7 +230,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/250967242-a2605358-6b87-44ab-87fb-20dcdc5f9ef2.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5NjcyNDItYTI2MDUzNTgtNmI4Ny00NGFiLTg3ZmItMjBkY2RjNWY5ZWYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlNjhhZmM2MDY0OTE5OWI1NjAxNmZmMDlhYTZkZjgwOTBlZTM0ZmIzNGRlYTZiNTM2YzhmZjE5MDNlNTZlZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.ghWORAeXVpgL5e0HTMYQsz_tqE9-wxgtjcSUMfizU4s" width="4%" /> Random Dev Quote <img src="https://private-user-images.githubusercontent.com/74038190/250967242-a2605358-6b87-44ab-87fb-20dcdc5f9ef2.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5NjcyNDItYTI2MDUzNTgtNmI4Ny00NGFiLTg3ZmItMjBkY2RjNWY5ZWYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlNjhhZmM2MDY0OTE5OWI1NjAxNmZmMDlhYTZkZjgwOTBlZTM0ZmIzNGRlYTZiNTM2YzhmZjE5MDNlNTZlZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.ghWORAeXVpgL5e0HTMYQsz_tqE9-wxgtjcSUMfizU4s" width="4%" />
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3psNXUxaTZwMmxoc3FtYWU3bWVlZDB2Z3AxeGtkemRzNTc2c2M3YiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QajTwVEbkOLHaRalAQ/giphy.gif" width="4%" /> Random Dev Quote <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJpeHZ0bTBtcTM3ZHMwNHJqZ3VjMGxhOHd6Y2s3bXRsd250YXRhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mA0vo0Nlm0XvBhlcdG/giphy.gif" width="4%" />
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -239,14 +239,14 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3MDk2ODNlOGU2Mjg0NmMwMDFlNTc2NTUxNzA3N2IxM2YwMmZlNDU4MzlkZWQxNWNiNWY4NmEwMTFkMDdjZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.A0rGTFqYVH7PjY39jyht38njTbyTFtPBKGTYMizieGs" width="4%" /> BRAINROT.MANTRA()
+## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="5%" /> BRAINROT.MANTRA()
 
 <p align="center" theme="radical"> <i>✦ "Ved said hii. The lore starts when u say it back 😡... ✦</i><br/> <i>✦ call me a camel n we're automatically friends" ✦</i><br/><br/> <i>✦ "sudo rm -rf /problems && systemctl start success" ✦</i><br/> <i>✦ "I entered the matrix... it crashed" ✦</i> </p>
 <p align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-##  <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="4%" /> SPOTIFY.STATUS()
+##  <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="4.5%" /> SPOTIFY.STATUS()
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nbqi7bnab3edcfwl3m2v2txv4e&cover_image=true&theme=default&show_offline=true&background_color=0f0f0f&interchange=false&profanity=false&hide_remaster=false&bar_color=0eb474&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nbqi7bnab3edcfwl3m2v2txv4e&redirect=true" width="400" />
@@ -255,7 +255,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="4%" /> SYSTEM.SHUTDOWN()
+## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="4.5%" /> SYSTEM.SHUTDOWN()
 
 <p align="center"> <i>✦ "In the neon chaos of the grid, I write my own story through code." ✦</i> 🦇 </p><p align="center"> <a href="#top"> <img src="https://img.shields.io/badge/BACK_TO_TOP-00FFCC?style=for-the-badge&logo=arrow-up&logoColor=black" /> </a> </p>
 <div align="center"> <b>✦ BUILT WITH ☕, 🕷️, AND TOO MANY ALL-NIGHTY-CAMELS ✦</b><br/> <b>✦ RAGHAV — Founder of VEDVERSE ✦</b> </div>
