@@ -191,7 +191,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="3.5%" /> GITHUB.ANALYTICS()
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="5%" /> GITHUB.ANALYTICS()
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=200&color=00FF41&center=true&vCenter=true&width=500&lines=%24+github-stats+--user%3DDetective-ved+--live;LOADING+CONTRIBUTION+MATRIX...;FETCHING+COMMIT+HISTORY...;RENDERING+GRAPH..." />
@@ -211,7 +211,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzUtMzQzNzZiMGUtNGFlMi00Mjc4LTlkM2QtODJlODAxNmE4N2Q2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5ZTUxZDE4YmE4NTdjNmQzOWY0ZmExM2RjM2M2ZGI1MmNjM2E3ZWFjMDg5ZTYzNGFmMWE0NmU3MjBjZDNlZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.dXwrE8xM30mWxe_0XusAdylEXkKBBR8j-MnPxilZXf4" width="4.5%" /> CONTRIBUTION_Ved.EXE
+## <img src="https://private-user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzUtMzQzNzZiMGUtNGFlMi00Mjc4LTlkM2QtODJlODAxNmE4N2Q2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5ZTUxZDE4YmE4NTdjNmQzOWY0ZmExM2RjM2M2ZGI1MmNjM2E3ZWFjMDg5ZTYzNGFmMWE0NmU3MjBjZDNlZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.dXwrE8xM30mWxe_0XusAdylEXkKBBR8j-MnPxilZXf4" width="5%" /> CONTRIBUTION_Ved.EXE
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Detective-ved&theme=chartreuse-dark&bg_color=0D1117&color=00FF41&line=39FF14&point=00FF41&area=true&hide_border=true" width="90%" />
