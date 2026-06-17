@@ -1,19 +1,20 @@
 <!-- 🕷️ SPIDER-MAN × CYBERPUNK × HACKER VIBE 🦇 -->
 ---
 ```
-        ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗    ████████╗ ██████╗        
-        ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝    ╚══██╔══╝██╔═══██╗       
-        ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗         ██║   ██║   ██║       
-        ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝         ██║   ██║   ██║       
-        ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗       ██║   ╚██████╔╝       
-         ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝       ╚═╝    ╚═════╝        
-                                                                                                   
-    ████████╗██╗  ██╗███████╗    ██╗   ██╗███████╗██████╗ ██╗   ██╗███████╗██████╗ ███████╗███████╗
-    ╚══██╔══╝██║  ██║██╔════╝    ██║   ██║██╔════╝██╔══██╗██║   ██║██╔════╝██╔══██╗██╔════╝██╔════╝
-       ██║   ███████║█████╗      ██║   ██║█████╗  ██║  ██║██║   ██║█████╗  ██████╔╝███████╗█████╗  
-       ██║   ██╔══██║██╔══╝      ╚██╗ ██╔╝██╔══╝  ██║  ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║██╔══╝  
-       ██║   ██║  ██║███████╗     ╚████╔╝ ███████╗██████╔╝ ╚████╔╝ ███████╗██║  ██║███████║███████╗
-       ╚═╝   ╚═╝  ╚═╝╚══════╝      ╚═══╝  ╚══════╝╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+                ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗    ████████╗ ██████╗        
+                ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝    ╚══██╔══╝██╔═══██╗       
+                ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗         ██║   ██║   ██║       
+                ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝         ██║   ██║   ██║       
+                ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗       ██║   ╚██████╔╝       
+                 ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝       ╚═╝    ╚═════╝        
+                                                                                                           
+            ████████╗██╗  ██╗███████╗    ██╗   ██╗███████╗██████╗ ██╗   ██╗███████╗██████╗ ███████╗███████╗
+            ╚══██╔══╝██║  ██║██╔════╝    ██║   ██║██╔════╝██╔══██╗██║   ██║██╔════╝██╔══██╗██╔════╝██╔════╝
+               ██║   ███████║█████╗      ██║   ██║█████╗  ██║  ██║██║   ██║█████╗  ██████╔╝███████╗█████╗  
+               ██║   ██╔══██║██╔══╝      ╚██╗ ██╔╝██╔══╝  ██║  ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║██╔══╝  
+               ██║   ██║  ██║███████╗     ╚████╔╝ ███████╗██████╔╝ ╚████╔╝ ███████╗██║  ██║███████║███████╗
+               ╚═╝   ╚═╝  ╚═╝╚══════╝      ╚═══╝  ╚══════╝╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+                                                                                                           
 ```
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=5000&pause=1500&color=00FFCC&center=true&vCenter=true&width=600&lines=call+me+a+camel+so+the+lore+begins...;n+we're+automatically+friends;sudo+rm+-rf+problems;initiating+connection...;access+granted+to+the+Vedverse" />
@@ -30,11 +31,11 @@
     <td width="50%" valign="top">
      ``` 
       <p align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="150%" />
+        <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="200%" />
       </p>
       <p align="center">
-              <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=2500&pause=100&color=00FF41&center=true&vCenter=true&width=600&lines=Whoa! yk !?; Ved is Raghav; Raghav is Ved; That's damn cool man; I knew it...; I'm sexy n i knw it 👅" />
-            </p>
+            <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
+          </p>
                 
   </td> <td width="50%" valign="top">
     ```
@@ -114,7 +115,7 @@ $ cat profile.json
   <img src="https://img.shields.io/badge/ACCESS-GRANTED-00FFCC?style=for-the-badge&logo=matrix&logoColor=00FFCC" />
 </p>
 
-## ⚡ >> CURRENT_SYS.CALLS
+## <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="3.5%" /> CURRENT_SYS.CALLS
 
 <table border="0">
   <tr>
@@ -134,6 +135,9 @@ $ systemctl status ved-core.service
 > CORE_TEMP: 98°C
 > SUGGESTION: SEND COFFEE OR PULL_REQUEST
 ```
+<p align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+          </p>
   </td> <td width="50%" valign="top">
 
 $ /var/log/ved/mind.log
@@ -143,6 +147,9 @@ threads_running: 4
 memory_leak: true
 sudo_privileges: granted
 ```
+<p align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="70%" />
+          </p>
 </td> </tr> </table>
 
 💀 WARNING: Core temperature high. Send coffee or pull request.
@@ -154,7 +161,7 @@ sudo_privileges: granted
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=3000&pause=200&color=00FF41&center=true&vCenter=true&width=600&height=25&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
 </p>
 
-## 🛠️ >> TECH_STACK.dump()
+## <img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1NDFlMzllMGNjNWU0MTg2MzIyYzc0OWZjMWIwNDEwNjQ5MmZhNTk2ZGY5ZWI4MDU2Nzk3YThlMmM1MWQ3NmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.rokv0zfFYJyytn5s36gvqD1A5kDLPeFOTeY38YcHZi4" width="4.5%" /> TECH_STACK.dump()
 
 💀 LANGUAGES I SPEAK (TO THE MACHINE)
 <p align="left"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
@@ -184,7 +191,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## 📈 >> GITHUB_ANALYTICS()
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="3.5%" /> GITHUB.ANALYTICS()
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=2000&pause=200&color=00FF41&center=true&vCenter=true&width=500&lines=%24+github-stats+--user%3DDetective-ved+--live;LOADING+CONTRIBUTION+MATRIX...;FETCHING+COMMIT+HISTORY...;RENDERING+GRAPH..." />
@@ -204,7 +211,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-## 🐍 >> CONTRIBUTION_SNAKE.EXE
+## <img src="https://private-user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzUtMzQzNzZiMGUtNGFlMi00Mjc4LTlkM2QtODJlODAxNmE4N2Q2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5ZTUxZDE4YmE4NTdjNmQzOWY0ZmExM2RjM2M2ZGI1MmNjM2E3ZWFjMDg5ZTYzNGFmMWE0NmU3MjBjZDNlZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.dXwrE8xM30mWxe_0XusAdylEXkKBBR8j-MnPxilZXf4" width="4.5%" /> CONTRIBUTION_Ved.EXE
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Detective-ved&theme=chartreuse-dark&bg_color=0D1117&color=00FF41&line=39FF14&point=00FF41&area=true&hide_border=true" width="90%" />
@@ -213,7 +220,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## 🌐 >> CONNECT() [ IF YOU DARE! ]
+## <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExNWZhMjc3ZDlhYTIxYTczM2EwOGVkOGJmMzgyYjI1OWZhNzE4ZTc0MjE5OTA1ZTM0NDliOTkzYzk3YmNmM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.9eItpZ9nC6vig4rAfGFXg1HqF91_Rj6zHyYrX3YQ1WA" width="4%" /> CONNECT < IF YOU DARE! >
 
 <p align="center"> <a href="mailto:raghav.mgu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-raghav.mgu%40gmail.com-FF0066?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="tel:+917906771654"><img src="https://img.shields.io/badge/ENCRYPTED_LINE-%2B91%2079067%2071654-00FFCC?style=for-the-badge&logo=signal&logoColor=white" /></a> </p><p align="center"> <a href="https://linkedin.com/in/raghava-m-vasudevan/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Detective-ved"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://discord.gg/detective.ved"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://instagram.com/vedonthemic"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
 <p align="center">
@@ -223,7 +230,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-## ✍️ Random Dev Quote
+## <img src="https://private-user-images.githubusercontent.com/74038190/250967242-a2605358-6b87-44ab-87fb-20dcdc5f9ef2.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5NjcyNDItYTI2MDUzNTgtNmI4Ny00NGFiLTg3ZmItMjBkY2RjNWY5ZWYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlNjhhZmM2MDY0OTE5OWI1NjAxNmZmMDlhYTZkZjgwOTBlZTM0ZmIzNGRlYTZiNTM2YzhmZjE5MDNlNTZlZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.ghWORAeXVpgL5e0HTMYQsz_tqE9-wxgtjcSUMfizU4s" width="4%" /> Random Dev Quote <img src="https://private-user-images.githubusercontent.com/74038190/250967242-a2605358-6b87-44ab-87fb-20dcdc5f9ef2.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNTA5NjcyNDItYTI2MDUzNTgtNmI4Ny00NGFiLTg3ZmItMjBkY2RjNWY5ZWYyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlNjhhZmM2MDY0OTE5OWI1NjAxNmZmMDlhYTZkZjgwOTBlZTM0ZmIzNGRlYTZiNTM2YzhmZjE5MDNlNTZlZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.ghWORAeXVpgL5e0HTMYQsz_tqE9-wxgtjcSUMfizU4s" width="4%" />
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -232,14 +239,14 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## 💀 >> BRAINROT_MANTRA()
+## <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3MDk2ODNlOGU2Mjg0NmMwMDFlNTc2NTUxNzA3N2IxM2YwMmZlNDU4MzlkZWQxNWNiNWY4NmEwMTFkMDdjZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.A0rGTFqYVH7PjY39jyht38njTbyTFtPBKGTYMizieGs" width="4%" /> BRAINROT.MANTRA()
 
 <p align="center" theme="radical"> <i>✦ "Ved said hii. The lore starts when u say it back 😡... ✦</i><br/> <i>✦ call me a camel n we're automatically friends" ✦</i><br/><br/> <i>✦ "sudo rm -rf /problems && systemctl start success" ✦</i><br/> <i>✦ "I entered the matrix... it crashed" ✦</i> </p>
 <p align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## 🎵 >> SPOTIFY_STATUS()
+##  <img src="https://camo.githubusercontent.com/26958772a177631f2ba759431279f2ccb173c29f93f358adcb1d44059d193673/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="4%" /> SPOTIFY.STATUS()
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nbqi7bnab3edcfwl3m2v2txv4e&cover_image=true&theme=default&show_offline=true&background_color=0f0f0f&interchange=false&profanity=false&hide_remaster=false&bar_color=0eb474&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nbqi7bnab3edcfwl3m2v2txv4e&redirect=true" width="400" />
@@ -248,7 +255,7 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## 🕷️ >> SYSTEM_SHUTDOWN()
+## <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="4%" /> SYSTEM.SHUTDOWN()
 
 <p align="center"> <i>✦ "In the neon chaos of the grid, I write my own story through code." ✦</i> 🦇 </p><p align="center"> <a href="#top"> <img src="https://img.shields.io/badge/BACK_TO_TOP-00FFCC?style=for-the-badge&logo=arrow-up&logoColor=black" /> </a> </p>
 <div align="center"> <b>✦ BUILT WITH ☕, 🕷️, AND TOO MANY ALL-NIGHTY-CAMELS ✦</b><br/> <b>✦ RAGHAV — Founder of VEDVERSE ✦</b> </div>
