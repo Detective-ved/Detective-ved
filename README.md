@@ -33,17 +33,17 @@
       <p align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="100%" />
       </p>
-      <p align="center">
-            <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
-          </p>
+      
                 
   </td> <td width="50%" valign="top">
     ```
       <p align="center">
-        <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1NmY2NTNmZmU5ZmIzNTJlNTI4NzliNGI2MTM4OTFjZTg0Y2IyMmZkMzc3MjY4MGEyNGE2MTZlNTJlZWFkYTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.d4AalWSShg-yY-weyDoKtn9kS89NE28FAKxTpizKgGo" width="100%" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ2NGF1dTBrbzU1bm1tOXl4dTdrZ3lrYjZnZ3E0dnQ4b2ZyeWhsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" />
       </p>
   </td> </tr> </table>
-
+<p align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
+          </p>
 <table border="0">
   <tr>
     <td width="50%" valign="top">
@@ -79,7 +79,7 @@ $ cat profile.json
 🔥 brainrot.exe loaded — iykyk...
 ```
 
-  </td> <td width="50%" valign="top">
+  </td> <td width="70%" valign="top">
   ```
     
             .-.-.                ved@void 
@@ -239,9 +239,20 @@ sudo_privileges: granted
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="5%" /> BRAINROT.MANTRA()
+## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="4.8%" /> Rotten_Brain.Ved()
 
-<p align="center" theme="radical"> <i>✦ "Ved said hii. The lore starts when u say it back 😡... ✦</i><br/> <i>✦ call me a camel n we're automatically friends" ✦</i><br/><br/> <i>✦ "sudo rm -rf /problems && systemctl start success" ✦</i><br/> <i>✦ "I entered the matrix... it crashed" ✦</i> </p>
+<p align="center">
+  <table border="0" cellpadding="10">
+    <tr>
+      <td width="50%" valign="top">
+      <p align="center"> 
+        <img src="https://github.com/user-attachments/assets/08e78782-4f82-4269-b3a4-4981ebc09e74" width="90%" height="350px" />
+      </p>
+      </td><td width="50%" valign="top">
+        <p align="center">
+        <img src="https://github.com/user-attachments/assets/bcaf70b2-e25f-49b7-a333-d6b0a6e14db5" width="100%" />
+        </p>
+      </td></tr></table></p>
 <p align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
       </p>
