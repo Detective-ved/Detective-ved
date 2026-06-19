@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-SOFTWARE_DEV_%2B_AI_ENGINEER-00FFCC?style=flat-square" />
+  <img src="https://img.shields.io/badge/ROLE-SOFTWARE_DEV_%2B_AI_ENGINEER-2496ED?style=flat-square" />
   <img src="https://img.shields.io/badge/OS-PARANOID_ANDROID-FF0066?style=flat-square" />
   <img src="https://img.shields.io/badge/TERMINAL-ROOT_ACCESS-brightgreen?style=flat-square" />
 </p>
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="80%" valign="top">
      ``` 
       <p align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="200%" />
@@ -37,7 +37,7 @@
             <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
           </p>
                 
-  </td> <td width="50%" valign="top">
+  </td> <td width="80%" valign="top">
     ```
       <p align="center">
         <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE3MDY3NjgsIm5iZiI6MTc4MTcwNjQ2OCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDE0Mjc0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI1NmY2NTNmZmU5ZmIzNTJlNTI4NzliNGI2MTM4OTFjZTg0Y2IyMmZkMzc3MjY4MGEyNGE2MTZlNTJlZWFkYTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.d4AalWSShg-yY-weyDoKtn9kS89NE28FAKxTpizKgGo" width="150%" />
@@ -102,7 +102,7 @@ $ cat profile.json
 </td> </tr> </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Share+Tech+Mono&size=30&duration=7000&pause=2500&color=39FF14&center=true&vCenter=true&width=900&lines=Hii+I'm+RAGHAV+👋;%3E+UID%3A+fuxkme.ved;%3E+SHELL%3A+%2Fbin%2Fhacker;%3E+%7B+Backend+%7C+AI+%7C+IoT+%7D;%24+sudo+./deploy_shadow_coder.sh;%3E+ACCESS+GRANTED...;WELCOME+TO+THE+VEDVERSE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Share+Tech+Mono&size=30&duration=4500&pause=200&color=39FF14&center=true&vCenter=true&width=900&lines=Hii+I'm+RAGHAV+👋;%3E+UID%3A+fuxkme.ved;%3E+SHELL%3A+%2Fbin%2Fhacker;%3E+%7B+Backend+%7C+AI+%7C+IoT+%7D;%24+sudo+./deploy_shadow_coder.sh;%3E+ACCESS+GRANTED...;WELCOME+TO+THE+VEDVERSE" />
 </p>
 
 <p align="center">
@@ -110,9 +110,9 @@ $ cat profile.json
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFCC?style=for-the-badge&logo=verizon&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00C4CC?style=for-the-badge&logo=verizon&logoColor=00FFCC" />
   <img src="https://img.shields.io/badge/MODE-SPECTRE-FF0066?style=for-the-badge&logo=codefactor&logoColor=FF0066" />
-  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00FFCC?style=for-the-badge&logo=matrix&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00C4CC?style=for-the-badge&logo=matrix&logoColor=00FFCC" />
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="3.5%" /> CURRENT_SYS.CALLS
