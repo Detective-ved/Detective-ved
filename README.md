@@ -214,7 +214,7 @@ sudo_privileges: granted
 ## <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="5%" /> CONTRIBUTION_Ved.EXE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PranavD-Dev/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
+  <img src="https://ghchart.rshah.org/39FF14/Detective-ved" width="90%" />
 </p>
 <p align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
